@@ -1,0 +1,14 @@
+alto, ruim, alta, nenhuma, $0 a $15k
+moderado, desconhecido, baixa, nenhuma, $15 a $35k
+baixo, desconhecido, baixa, nenhuma, acima de $35k
+alto, desconhecido, alta, nenhuma, $15 a $35k
+moderado, ruim, baixa, adequada, acima de $35k
+baixo, desconhecido, baixa, adequada, acima de $35k
+alto, desconhecido, baixa, nenhuma, $0 a $15k
+moderado, bom, alta, nenhuma, $15 a $35k
+baixo, bom, baixa, nenhuma, acima de $35k
+alto, ruim, baixa, nenhuma, $0 a $15k
+baixo, bom, alta, adequada, acima de $35k
+alto, bom, alta, nenhuma, $0 a $15k
+baixo, bom, alta, nenhuma, acima de $35k
+alto, ruim, alta, nenhuma, $15 a $35k
